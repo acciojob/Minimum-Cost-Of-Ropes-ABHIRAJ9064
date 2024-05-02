@@ -10,7 +10,7 @@ def ConnectRope(ropes):
         res += cur
     return res
 
-ropes = [4, 2, 7, 6, 9]
+ropes = [8, 4, 6, 12]
 print(ConnectRope(ropes))
 
   
